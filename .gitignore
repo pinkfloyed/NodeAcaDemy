@@ -37,8 +37,3 @@ build/
 .idea/
 *.swp
 *.swo
-
-# Optional lock files
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
